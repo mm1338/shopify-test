@@ -2,8 +2,26 @@
   "sections": {
     "main": {
       "type": "main-404",
-      "settings": {}
+      "settings": {
+      }
+    },
+    "1635959449fb33aa3f": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "show_spacing": false,
+        "title": "特集コレクション",
+        "show_vendor": false,
+        "show_view_all": false,
+        "use_second_button": false,
+        "grid_style": "collage",
+        "products": 3,
+        "rows": 2
+      }
     }
   },
-  "order": ["main"]
+  "order": [
+    "main",
+    "1635959449fb33aa3f"
+  ]
 }
